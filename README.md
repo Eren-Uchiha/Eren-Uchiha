@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Eren-Uchiha
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# C++ Practice Repository
 
-<!---
-Eren-Uchiha/Eren-Uchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my C++ practice repo!  
+This repository contains a collection of programs written as part of my journey to master C++ — from basic syntax to object-oriented programming and data structures.
+
+## 📚 What You'll Find Here
+
+- 🔹 **Basic Programs**: Input/output, variables, loops, conditionals, functions
+- 🔹 **Intermediate Concepts**: Arrays, strings, pointers, dynamic memory
+- 🔹 **Object-Oriented Programming (OOP)**: Classes, constructors, inheritance, polymorphism
+- 🔹 **STL & Advanced Topics** *(coming soon)*: Vectors, maps, sets, etc.
+- 🔹 **Mini Projects**: Simple real-world programs like calculators and record systems
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
