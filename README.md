@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Eren-Uchiha (Priyansh Pundir)
+# 👋 Hi, I’m Priyansh Pundir
 
 👀 I’m interested in programming and building real-world projects  
 🌱 I’m currently learning C++ and Object-Oriented Programming  
